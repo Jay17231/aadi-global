@@ -24,12 +24,12 @@
 					<div class="col-md-4 col-sm-6">
 						<div class="wc-item text-center">
 							<div class="wc-inner">
-								<img class="center-block" src="assets/images/test-tubes.jpg" alt=""/>
+								<p>Import</p>	
+								<p><i class="fa fa-download"></i></p>								
 							</div>
 							
 							<div class="overlay">
-								<p>Import</p>	
-								<p><i class="fa fa-download"></i></p>
+								<img class="center-block" src="assets/images/test-tubes.jpg" alt=""/>
 							</div>
 						</div>
 					</div>
@@ -37,13 +37,12 @@
 					<div class="col-md-4 col-sm-6">
 						<div class="wc-item text-center">
 							<div class="wc-inner">
-								<img class="center-block" src="assets/images/test-tubes-2.jpg" alt=""/>
-								<img class="center-block" src="assets/images/layer_1692.png" alt=""/>
+								<p>Marketing</p>
+								<p><i class="fa fa-television"></i></p>								
 							</div>
 							
 							<div class="overlay">
-								<p>Marketing</p>
-								<p><i class="fa fa-television"></i></p>
+								<img class="center-block" src="assets/images/test-tubes-2.jpg" alt=""/>
 							</div>
 						</div>
 					</div>				
@@ -51,13 +50,12 @@
 					<div class="col-md-4 col-sm-6">
 						<div class="wc-item text-center">
 							<div class="wc-inner">
-								<img class="center-block" src="assets/images/somerset3.jpg" alt=""/>
-								<img class="center-block" src="assets/images/layer_1679.png" alt=""/>
+								<p>Distribution</p>
+								<p><i class="fa fa-credit-card-alt"></i></p>								
 							</div>
 							
 							<div class="overlay">
-								<p>Distribution</p>
-								<p><i class="fa fa-credit-card-alt"></i></p>
+								<img class="center-block" src="assets/images/distribution.jpg" width="380" height="250" alt=""/>
 							</div>
 						</div>
 					</div>
@@ -78,13 +76,12 @@
 					<div class="col-md-4 col-sm-6">
 						<div class="wc-item text-center">
 							<div class="wc-inner">
-								<img class="center-block" src="assets/images/ocean1.jpg" alt=""/>
-								<img class="center-block" src="assets/images/layer_1696.png" alt=""/>
+								<p>Manufacturing</p>
+								<p><i class="fa fa-industry"></i></p>
 							</div>
 							
 							<div class="overlay">
-								<p>Manufacturing</p>
-								<p><i class="fa fa-industry"></i></p>
+								<img class="center-block" src="assets/images/industry.jpg" width="380" height="250" alt=""/>
 							</div>
 						</div>
 					</div>				
@@ -105,7 +102,7 @@
 			
 			<!-- RPO Services -->
 			<div class="row center-flex">
-				<div class="col-sm-8 col-sm-push-4">
+				<div class="col-sm-8 col-sm-push-4 margin-top-70">
 					<img class="img-responsive img-global col-md-offset-2 img-left" src="assets/images/our-services.png" width="" alt="Image RPO Services">
 				</div>
 				
@@ -138,7 +135,7 @@
 				<div class="col-sm-7">
 					<img class="img-responsive img-global" src="assets/images/enviromental-safety.jpg" alt="Image Temporary Staffing">
 				</div>
-				<div class="col-sm-5 fly-in-right">
+				<div class="col-sm-5 fly-in-right margin-top-50">
 					<div class="benefit-item">
 						<h4>Environmental Safety</h4>
 						<p>This is one aspect that is always been on the <span class="color-red">top of our priority list</span>. All our processes conform to the international standards as in accord to the environment laws. Keeping this very important environment friendly attitude and human welfare into consideration, we have our own process comprising of primary, secondary and tertiary treatments. All liquid and solid wastes are <span class="color-red">disposed off in an environmentally and legally acceptable manner</span>.</p>

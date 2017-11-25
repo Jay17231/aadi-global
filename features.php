@@ -43,7 +43,7 @@
 						</div>
 						
 						<div class="overlay">
-							<img class="center-block" src="assets/images/test-tubes-2.jpg" alt=""/>
+							<img class="center-block" src="assets/images/our-approach.jpg" width="355"  height="400" alt=""/>
 						</div>
 					</div>
 				</div>
@@ -79,8 +79,8 @@
 				</div>
 				
 				<div class="col-sm-8">
-					<h4>Mission Statement</h4>
-					<p>We believe in delivering cost-effective solutions in the field of Information Technology with uncompromising quality of service to our clients. Our business is focused around achieving total customer satisfaction in everything we do</p>
+					<h4>Vision Statement</h4>
+					<p>Establish Aadi Global as the premier world leader in products, services and marketing solutions, while maintaining our uncompromising principles as we grow. We will be the company that understands and delivers to all requirements of our stakeholders.</p>
 					<br>
 					<div class="divider"></div>
 					<br>
@@ -175,7 +175,7 @@
 						</div>
 						
 						<div class="overlay">
-							<img class="center-block" src="assets/images/ocean1.jpg" alt=""/>
+							<img class="center-block" src="assets/images/business.jpg" alt=""/>
 						</div>
 					</div>
 				</div>

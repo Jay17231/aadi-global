@@ -1434,7 +1434,12 @@ footer .widget {
     top: 50%;
     transform: translateY(-50%);
 }
-
+.margin-top-70{
+	margin-top:70px;
+}
+.margin-top-50{
+	margin-top:50px;
+}
 .wc-inner {
 	position: relative;
     top: 50%;
@@ -1557,7 +1562,7 @@ footer .widget {
 
 .navbar-default .container {
 	width:100%;
-	max-width:1350px;
+	max-width:1170px;
 	position:relative;
 }
 
