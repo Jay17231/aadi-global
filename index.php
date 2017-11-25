@@ -18,7 +18,7 @@
 							<a href="http://jobs.satnam.com/candidates/myjobs/searchjobsdone.jsp?a=0xjdnwl42lj04obm8k9aar332qwlcn039ak80dos27nrdak559c9bpsovjpohb4i%3Cbr%20/%3E" class="intro-btn">
 							<i class="fa fa-phone"></i> Bulk Enquiries ?
 							</a>
-							<span>Call <br> Us Now!	</span>
+							<span><strong>Call Us Now!</strong>	</span>
 						</div>
 					</div>
 				</div>
@@ -33,7 +33,7 @@
 		<div class="it-solutions-services">				
 			<div class="row">
 				<div class="col-sm-4">
-					<ul class="accordion">
+					<ul class="accordion gap-20">
 						<li class="accordion-toggle">Pharmaceuticals<span></span>
 							<p><i class="fa fa-plus-square"></i></p>
 						</li>
@@ -52,7 +52,7 @@
 				</div>
 			
 				<div class="col-sm-4">
-					<ul class="accordion">
+					<ul class="accordion gap-20">
 						<li class="accordion-toggle">Agrochemical Sector<span></span>
 							<p><i class="fa fa-leaf"></i></p>
 						</li>
@@ -67,7 +67,7 @@
 				</div>
 
 				<div class="col-sm-4">
-					<ul class="accordion">
+					<ul class="accordion gap-20">
 						<li class="accordion-toggle">Petrochemical Sector<span></span>
 							<p><i class="fa fa-industry"></i></p>
 						</li>
@@ -108,7 +108,7 @@
 						<div class="offices item active">
 							<img src="assets/images/somerset3.jpg" height="1024" alt="Chania">
 							<div class="carousel-caption">
-								<h3>Office 1</h3>
+								<h3>USA Office</h3>
 								<br>
 								<p>Our Establishment, Somerset, New Jersey</p>
 							</div>
@@ -116,7 +116,7 @@
 						<div class="offices item">
 							<img src="assets/images/ocean2.jpg" height="1024"  alt="Chania2">
 							<div class="carousel-caption">
-								<h3>Office 2</h3>
+								<h3>India Office</h3>
 								<br>
 								<p>Our Establishment, Vadodara, India</p>
 							</div>
@@ -126,7 +126,7 @@
 							<div class="carousel-caption">
 								<h3>Our Products</h3>
 								<br>
-								<p>We firmly believe that a strong business tie can only be instilled if there is healthy communication between the parties. We at Aadi Global are interested in hearing from you and encourage you to reach out to us regarding any queries.</p>
+								<p>We cater to a wide range of products from pharmaceuticals, agrochemicals, petrochemicals and other ancillary industries.</p>
 							</div>
 						</div>
 					</div>

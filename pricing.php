@@ -11,12 +11,12 @@
 					<div class="col-md-4 col-sm-6 services-solutions">
 						<div class="wc-item text-center">
 							<div class="wc-inner">
-								<img src="assets/images/pills.png" alt="Flower">
+								<p>Export</p>
+								<p><i class="fa fa-paper-plane"></i></p>
 							</div>
 							
 							<div class="overlay">
-								<p>Export</p>
-								<p><i class="fa fa-paper-plane"></i></p>
+								<img src="assets/images/pills.png" alt="Flower">
 							</div>
 						</div>
 					</div>
@@ -106,7 +106,7 @@
 			<!-- RPO Services -->
 			<div class="row center-flex">
 				<div class="col-sm-8 col-sm-push-4">
-					<img class="img-responsive img-global col-md-offset-6 img-left" src="assets/images/our-services.png" width="" alt="Image RPO Services">
+					<img class="img-responsive img-global col-md-offset-2 img-left" src="assets/images/our-services.png" width="" alt="Image RPO Services">
 				</div>
 				
 				<div class="col-sm-4 col-sm-pull-8 fly-in-left">
@@ -135,14 +135,13 @@
 			<!-- Temporary Staffing Services -->
 			<div class="row center-flex">
 			
-				<div class="col-sm-8">
+				<div class="col-sm-7">
 					<img class="img-responsive img-global" src="assets/images/enviromental-safety.jpg" alt="Image Temporary Staffing">
 				</div>
-				<div class="col-sm-4 fly-in-right">
+				<div class="col-sm-5 fly-in-right">
 					<div class="benefit-item">
 						<h4>Environmental Safety</h4>
 						<p>This is one aspect that is always been on the <span class="color-red">top of our priority list</span>. All our processes conform to the international standards as in accord to the environment laws. Keeping this very important environment friendly attitude and human welfare into consideration, we have our own process comprising of primary, secondary and tertiary treatments. All liquid and solid wastes are <span class="color-red">disposed off in an environmentally and legally acceptable manner</span>.</p>
-						<a href="features.php" class="btn-md">Take a look</a>
 					</div>
 				</div>
 			</div>
