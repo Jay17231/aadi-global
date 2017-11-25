@@ -3,7 +3,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-2 widget">
-					<h4><img class="flogo img-responsive" src="assets/images/logo_footer.png" alt="SDS LOGO" width="91" height="18"></h4>
+					<h4><img src="assets/images/aadi-logo-tag-transparent.png" width="120" class="img-responsive" alt="SDS LOGO"/></h4>
 					<ul>
 						<li><i class="fa fa-copyright" aria-hidden="true"></i>2014 SDS</li>
 						<li>All Rights Reserved</li>
@@ -50,7 +50,7 @@
 				<div class="row">
 					<div class="col-sm-6 col-xs-4">
 						<a href="#">
-						<img class="flogo img-responsive" src="assets/images/logo_footer.png" alt="SDS LOGO" width="91" height="18">
+						<img src="assets/images/aadi-logo-tag-transparent.png" width="120" class="img-responsive" alt="SDS LOGO"/>
 						</a>
 					</div>
 					<div class="col-sm-6 col-xs-8">

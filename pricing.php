@@ -113,7 +113,7 @@
 					<div class="benefit-item">
 						<h4>Our Services Include</h4>
 						<p>
-							<ul>
+							<ul class="benefit-item-ul">
 								<li>Market Research and Intelligence</li>
 								<li>Providing technical support to customers</li>
 								<li>Negotiating transactions</li>

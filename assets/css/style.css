@@ -1560,7 +1560,7 @@ footer .widget {
 }
 
 .navbar-nav > li {
-	margin:0 20px;
+	margin:0 20px !important;
 }
 
 .navbar-default.affix .navbar-nav > li > a,
@@ -2377,7 +2377,13 @@ footer .widget li a:hover{
 	color:#fff;
 	border: 2px solid #15315E;
 }
-.benefit-item ul,li{
-	list-style: circle;
-	margin:5px 10px;
+.benefit-item-ul li, .benefit-item-ul{
+	list-style: circle !important;
+	margin:5px 10px !important;
+}
+
+.widget ul,li{
+	margin: 0 !important;
+    padding: 0;
+    list-style: none !important;
 }
